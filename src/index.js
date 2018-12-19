@@ -2,10 +2,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-
 // Create a react component
-
-
-
+const App = function() {
+  return <div>hi there!</div>;
+};
 
 // Take the react component and show it on the screen
